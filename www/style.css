@@ -1,0 +1,83 @@
+#login
+{
+	position: fixed;
+	top: 0; 
+  	left: 0; 
+  	right: 0; 
+  	bottom: 0;
+}
+
+#profile
+{
+	position: fixed;
+	top: 0; 
+  	left: 0; 
+  	right: 0; 
+  	bottom: 0;
+
+}
+
+#login form
+{
+	text-align: center;
+	border-color: navy;
+	border-style: solid;
+	border-width: 20px;
+	border-height: 20px; 
+}
+
+#login input
+{
+	margin-right: 3px;
+	border-color: navy;
+	border-style: solid;
+	border-width: 20px;
+	border-height: 20px; 
+	border-radius: 10px;	
+}
+
+
+body {
+	background-color: blue;
+}
+
+/* Using box shadows to create 3D effects */
+#calculator 
+{	
+	position: absolute;
+	top: 0; 
+  	left: 0; 
+  	right: 0; 
+  	bottom: 0;
+}
+
+#calculator table
+{
+	border-color: navy;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 5px;
+}
+
+#calculator td
+{
+	border-color: white;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 5px;
+}
+
+#pic1
+{
+	float: right;
+	top: 0; 
+  	left: 0; 
+  	right: 7px; 
+  	bottom: 0;
+  	margin: 7px auto; 
+	width: 500px;
+	height: 500px;
+}
+
+
+
